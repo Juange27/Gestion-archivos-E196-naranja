@@ -1,11 +1,14 @@
+📂 Gestion-archivos-E196-naranja
 
-  # Repositorio
+🟠 Proyecto - Grupo Naranja
 
-  This is a code bundle for Repositorio. The original project is available at https://www.figma.com/design/QMqGg6SHQ0soNGW7g0GSXd/Repositorio.
+Color
 
-  ## Running the code
+👥 Integrantes
 
-  Run `npm i` to install the dependencies.
+Juan Jose Guerrero
+Juan Andres Gamboa
+Katherine Estevez
+🎯 Descripción
 
-  Run `npm run dev` to start the development server.
-  
+Proyecto de gestión de archivos correspondiente al grupo identificado con el color 🟠 Naranja.
