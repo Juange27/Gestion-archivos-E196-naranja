@@ -1,14 +1,18 @@
-📂 Gestion-archivos-E196-naranja
+# 📂 Gestion-archivos-E196-naranja
 
-🟠 Proyecto - Grupo Naranja
+## 🟠 Proyecto - Grupo Naranja
 
-Color
+![Color](https://img.shields.io/badge/Color-Naranja-orange)
 
-👥 Integrantes
+---
 
-Juan Jose Guerrero
-Juan Andres Gamboa
-Katherine Estevez
-🎯 Descripción
+## 👥 Integrantes
 
-Proyecto de gestión de archivos correspondiente al grupo identificado con el color 🟠 Naranja.
+- **Juan Jose Guerrero**
+- **Juan Andres Gamboa**
+- **Katherine Estevez**
+
+---
+
+## 🎯 Descripción
+Proyecto de gestión de archivos correspondiente al grupo identificado con el color **🟠 Naranja**.
