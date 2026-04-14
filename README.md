@@ -20,3 +20,6 @@ Proyecto de gestión de archivos correspondiente al grupo identificado con el co
 
 ## 🎯 Link Vercel
 https://gestion-archivos-e196-naranja-oydx.vercel.app
+
+## 🎯 Link Canva
+https://www.dropbox.com/scl/fi/wfoo0sh8k3chpph9f0ioa/PORTAFOLIO.pdf?rlkey=yxmzckyxe591kemcr73kubsly&e=1&st=qbdatt85&dl=0
